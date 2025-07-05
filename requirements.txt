@@ -1,0 +1,5 @@
+numpy
+cmake
+face-recognition
+dlib
+opencv-python
